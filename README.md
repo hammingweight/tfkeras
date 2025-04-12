@@ -16,7 +16,7 @@ You'll need the conda package manager.
 
 ```
 $ git clone https://github.com/hammingweight/PyMLenv.git
-$ cd PyMLEnv
+$ cd PyMLenv
 $ conda env create
 $ conda activate pymlenv
 ```
