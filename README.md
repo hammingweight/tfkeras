@@ -4,6 +4,8 @@ A Conda environment for Python Machine Learning. This environment includes:
  * scikit-learn
  * tensorflow/keras
  * mlflow
+ * numpy
+ * pandas
  * ipython
  * jupyter
 
