@@ -321,4 +321,3 @@ dependencies:
   - zipp=3.21.0
   - zlib=1.2.13
   - zstd=1.5.6
-prefix: /home/cmeijer/miniconda3/envs/pymlenv
