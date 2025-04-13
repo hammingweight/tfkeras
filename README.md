@@ -6,6 +6,7 @@ A Conda environment for Python Machine Learning. This environment includes:
  * mlflow
  * ipython
  * jupyter
+ * kaggle
 
 ## Prerequisite
 You'll need the conda package manager.
