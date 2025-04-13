@@ -37,6 +37,8 @@ dependencies:
   - babel=2.16.0
   - bcrypt=3.2.0
   - beautifulsoup4=4.12.3
+  - behave=1.2.6
+  - black=24.10.0
   - blas=1.0
   - bleach=6.2.0
   - blinker=1.9.0
@@ -65,6 +67,7 @@ dependencies:
   - docker-py=7.1.0
   - executing=0.8.3
   - expat=2.6.4
+  - flake8=7.1.1
   - flask=3.1.0
   - flatbuffers=24.3.25
   - fontconfig=2.14.1
@@ -94,6 +97,7 @@ dependencies:
   - idna=3.7
   - imbalanced-learn=0.13.0
   - importlib-metadata=8.5.0
+  - iniconfig=1.1.1
   - intel-openmp=2023.1.0
   - ipykernel=6.29.5
   - ipython=8.30.0
@@ -165,6 +169,7 @@ dependencies:
   - markupsafe=3.0.2
   - matplotlib-base=3.10.0
   - matplotlib-inline=0.1.6
+  - mccabe=0.7.0
   - mdurl=0.1.0
   - mistune=3.1.2
   - mkl=2023.1.0
@@ -174,6 +179,7 @@ dependencies:
   - ml_dtypes=0.4.0
   - mlflow=2.18.0
   - multidict=6.1.0
+  - mypy_extensions=1.0.0
   - mysql=8.4.0
   - namex=0.0.7
   - nbclient=0.10.2
@@ -203,12 +209,16 @@ dependencies:
   - pandoc=2.12
   - pandocfilters=1.5.0
   - paramiko=3.5.0
+  - parse=1.19.1
+  - parse_type=0.6.2
   - parso=0.8.4
+  - pathspec=0.10.3
   - pcre2=10.42
   - pexpect=4.8.0
   - pillow=11.1.0
   - pip=25.0
   - platformdirs=4.3.7
+  - pluggy=1.5.0
   - prometheus_client=0.21.1
   - prompt-toolkit=3.0.43
   - prompt_toolkit=3.0.43
@@ -220,7 +230,9 @@ dependencies:
   - pyarrow=17.0.0
   - pyasn1=0.4.8
   - pyasn1-modules=0.2.8
+  - pycodestyle=2.12.1
   - pycparser=2.21
+  - pyflakes=3.2.0
   - pygments=2.15.1
   - pynacl=1.5.0
   - pyopenssl=25.0.0
@@ -228,6 +240,7 @@ dependencies:
   - pyqt=6.7.1
   - pyqt6-sip=13.9.1
   - pysocks=1.7.1
+  - pytest=8.3.4
   - python=3.12.8
   - python-dateutil=2.9.0post0
   - python-fastjsonschema=2.20.0
@@ -308,3 +321,4 @@ dependencies:
   - zipp=3.21.0
   - zlib=1.2.13
   - zstd=1.5.6
+prefix: /home/cmeijer/miniconda3/envs/pymlenv
