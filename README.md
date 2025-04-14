@@ -5,6 +5,7 @@ This repository provides a Conda environment for Python machine learning. This e
  * python 3.12.8
  * scikit-learn
  * tensorflow/keras
+ * xgboost
  * mlflow
  * numpy
  * pandas
