@@ -15,6 +15,7 @@ dependencies:
   - alembic=1.13.3
   - aniso8601=9.0.1
   - anyio=4.6.2.post1
+  - appdirs=1.4.4
   - argon2-cffi=21.3.0
   - argon2-cffi-bindings=21.2.0
   - arrow=1.3.0
@@ -77,11 +78,16 @@ dependencies:
   - decorator=5.1.1
   - defusedxml=0.7.1
   - deprecated=1.2.13
+  - distro=1.9.0
   - dm-tree=0.1.9
   - docker-py=7.1.0
+  - evidently=0.4.15
   - exceptiongroup=1.2.2
   - executing=0.8.3
   - expat=2.6.4
+  - fastapi=0.112.2
+  - fastapi-restful=0.6.0
+  - filelock=3.17.0
   - flake8=7.1.1
   - flask=3.1.0
   - flatbuffers=24.3.25
@@ -91,6 +97,7 @@ dependencies:
   - fqdn=1.5.1
   - freetype=2.13.3
   - frozenlist=1.5.0
+  - fsspec=2024.12.0
   - gast=0.5.3
   - gflags=2.2.2
   - giflib=5.2.2
@@ -124,6 +131,7 @@ dependencies:
   - ipython=8.30.0
   - ipywidgets=8.1.5
   - isoduration=20.11.0
+  - iterative-telemetry=0.0.10
   - itsdangerous=2.2.0
   - jedi=0.19.2
   - jinja2=3.1.6
@@ -219,6 +227,7 @@ dependencies:
   - nbformat=5.10.4
   - ncurses=6.4
   - nest-asyncio=1.6.0
+  - nltk=3.9.1
   - notebook=7.3.2
   - notebook-shim=0.2.4
   - numba=0.61.0
@@ -245,6 +254,7 @@ dependencies:
   - parse_type=0.6.2
   - parso=0.8.4
   - pathspec=0.10.3
+  - patsy=1.0.1
   - pcre2=10.42
   - pexpect=4.8.0
   - pickleshare=0.7.5
@@ -252,6 +262,7 @@ dependencies:
   - pip=25.0.1
   - pkgutil-resolve-name=1.3.10
   - platformdirs=4.3.7
+  - plotly=5.24.1
   - pluggy=1.5.0
   - prometheus_client=0.21.1
   - prompt-toolkit=3.0.43
@@ -267,6 +278,7 @@ dependencies:
   - pyasn1-modules=0.2.8
   - pycodestyle=2.12.1
   - pycparser=2.21
+  - pydantic=1.10.19
   - pyflakes=3.2.0
   - pygments=2.15.1
   - pynacl=1.5.0
@@ -300,6 +312,7 @@ dependencies:
   - re2=2022.04.01
   - readline=8.2
   - referencing=0.30.2
+  - regex=2024.11.6
   - requests=2.32.3
   - rfc3339-validator=0.1.4
   - rfc3986-validator=0.1.1
@@ -312,6 +325,7 @@ dependencies:
   - send2trash=1.8.2
   - setuptools=75.8.0
   - shap=0.46.0
+  - shellingham=1.5.0
   - sip=6.10.0
   - six=1.17.0
   - sklearn-compat=0.1.3
@@ -324,7 +338,10 @@ dependencies:
   - sqlite=3.45.3
   - sqlparse=0.5.2
   - stack_data=0.2.0
+  - starlette=0.38.2
+  - statsmodels=0.14.4
   - tbb=2021.8.0
+  - tenacity=9.0.0
   - tensorboard=2.17.0
   - tensorboard-data-server=0.7.0
   - tensorflow=2.17.0
@@ -340,9 +357,11 @@ dependencies:
   - tornado=6.4.2
   - tqdm=4.67.1
   - traitlets=5.14.3
+  - typer=0.9.0
   - types-python-dateutil=2.9.0.20241206
   - typing-extensions=4.12.2
   - typing_extensions=4.12.2
+  - typing_inspect=0.9.0
   - typing_utils=0.1.0
   - tzdata=2025a
   - unicodedata2=15.1.0
@@ -350,6 +369,8 @@ dependencies:
   - uri-template=1.3.0
   - urllib3=2.3.0
   - utf8proc=2.6.1
+  - uvicorn=0.32.1
+  - watchdog=4.0.2
   - wcwidth=0.2.5
   - webcolors=24.11.1
   - webencodings=0.5.1
