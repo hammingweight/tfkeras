@@ -14,6 +14,7 @@ This repository provides a Conda environment for Python machine learning. This e
  * kaggle
  * autokeras
  * optuna
+ * shap
 
 The environment is also opinionated about testing, linting and formatting and installs the following as well:
  * pytest
